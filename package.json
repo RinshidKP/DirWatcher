@@ -1,0 +1,25 @@
+{
+  "name": "dirwatcher",
+  "version": "1.0.0",
+  "description": "DirWatcher is a Node.js application designed to monitor changes within a specified directory and expose the results of these changes via a REST API. The application continuously runs as a long-running background process, periodically checking the directory for any modifications, additions, or deletions of files. The results of these checks are made available through a RESTful interface, allowing external systems to query the current state of the directory.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RinshidKP/DirWatcher.git"
+  },
+  "author": "Rinshid KP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RinshidKP/DirWatcher/issues"
+  },
+  "homepage": "https://github.com/RinshidKP/DirWatcher#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
