@@ -97,7 +97,7 @@ Follow these steps to set up and run the project:
 
 Here is the database schema for the DirectoryWatcher API:
 
-![Database Schema](https://drive.google.com/file/d/1vllRwP0uWW94SOJghCmZOzp7n9FF3_Nq/view?usp=sharing)
+![Database Schema](https://drive.google.com/uc?export=view&id=1vllRwP0uWW94SOJghCmZOzp7n9FF3_Nq)
 
 ### Tables
 
